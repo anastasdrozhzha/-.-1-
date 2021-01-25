@@ -1,0 +1,1 @@
+Обобщенный тип CollectionType<T> _8_laba.CollectionType`1[System.Nullable`1[System.Int32]] и _8_laba.CollectionType`1[_8_laba.Butic]
