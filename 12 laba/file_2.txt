@@ -1,0 +1,10 @@
+All information about fields and properties System.String:
+Type - Field. Name - Empty
+Type - Property. Name - Chars
+Type - Property. Name - Length
+
+All information about fields and properties System.String:
+Type - Field. Name - Empty
+Type - Property. Name - Chars
+Type - Property. Name - Length
+

@@ -1,0 +1,18 @@
+All interfaces System.String:
+Name - IComparable
+Name - IEnumerable
+Name - IConvertible
+Name - IEnumerable`1
+Name - IComparable`1
+Name - IEquatable`1
+Name - ICloneable
+
+All interfaces System.String:
+Name - IComparable
+Name - IEnumerable
+Name - IConvertible
+Name - IEnumerable`1
+Name - IComparable`1
+Name - IEquatable`1
+Name - ICloneable
+
